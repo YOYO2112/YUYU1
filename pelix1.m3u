@@ -1,15 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="", STRANGE
-http://201.172.61.81:85/peliculas/octubre/Marvel/Doctor.strange.2016.1080p-dual-lat.mp4
-#EXTINF:-1 tvg-logo="", Ant Man
-http://201.172.61.81:85/peliculas/octubre/Marvel/Ant-man.2015.1080p-dual-lat.mp4
-#EXTINF:-1 tvg-logo="", CAPITAN AMERICA 2016
-http://201.172.61.81:85/peliculas/octubre/Marvel/Captain.america.civil.war.2016.1080p-dual-lat.mp4#EXTINF:-1 tvg-logo="", Ant Man
-#EXTINF:-1 tvg-logo="", AVENGERS 2015
-http://201.172.61.81:85/peliculas/octubre/Marvel/Avengers.Age.of.Ultron.2015.hd-dual-lat-r.mp4#EXTINF:-1 tvg-logo="", Ant Man
-#EXTINF:-1 tvg-logo="", IRONMAN 1
-http://201.172.61.81:85/peliculas/octubre/Marvel/Iron%20man%201.mp4#EXTINF:-1 tvg-logo="", IRONMAN 2
-#EXTINF:-1 tvg-logo="", IRONMAN 2
-http://201.172.61.81:85/peliculas/octubre/Marvel/Iron.man.2.2010.1080p-dual-lat.mp4#EXTINF:-1 tvg-logo="", STRANGE
-#EXTINF:-1 tvg-logo="", THOR 2013
-http://201.172.61.81:85/peliculas/octubre/Marvel/Thor.the.dark.world.2013.1080p-dual-lat.mp4
+
+#EXTINF:-1 , Transformer 1
+http://201.172.61.81:85/peliculas/sagas/1.mp4
+
+#EXTINF:-1 , Transformer 2
+http://201.172.61.81:85/peliculas/sagas/2.mp4
+
+#EXTINF:-1 , Transformer 3
+http://201.172.61.81:85/peliculas/sagas/3.mp4
+
+#EXTINF:-1 , Transformer 4
+http://201.172.61.81:85/peliculas/sagas/4.mp4
+
+#EXTINF:-1 , Transformer 5
+http://201.172.61.81:85/peliculas/sagas/5.mp4
+
+
+
